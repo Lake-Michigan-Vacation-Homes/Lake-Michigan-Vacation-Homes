@@ -83,8 +83,8 @@
     position: relative;
     margin-right: 25px;
     padding: 35px 0;
-    color: #000000 !important;
-    font-size: 18px;
+    color: #ffffff !important;
+    font-size: 20px;
     font-weight: 600;
     outline: none;
     transition: .5s;
@@ -172,14 +172,14 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background:url(../img/sunsetmain.jpg);
+    background:linear-gradient(rgba(74, 76, 79, 0.2), rgba(74, 76, 79, 0.2)),url(../img/sunsetmain.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
-    color: rgba(255, 255, 255, .5);
+    color: rgba(255, 255, 255, 0.5);
 }
 
 
