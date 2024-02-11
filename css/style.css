@@ -47,7 +47,7 @@
 
 .btn.btn-primary,
 .btn.btn-secondary {
-    color: #ff0000;
+    color: #ffffff;
 }
 
 .btn-square {
@@ -83,7 +83,7 @@
     position: relative;
     margin-right: 25px;
     padding: 35px 0;
-    color: #0800ff !important;
+    color: #000000 !important;
     font-size: 18px;
     font-weight: 600;
     outline: none;
