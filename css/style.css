@@ -47,7 +47,7 @@
 
 .btn.btn-primary,
 .btn.btn-secondary {
-    color: #FFFFFF;
+    color: #ff0000;
 }
 
 .btn-square {
@@ -83,7 +83,7 @@
     position: relative;
     margin-right: 25px;
     padding: 35px 0;
-    color: #FFFFFF !important;
+    color: #0800ff !important;
     font-size: 18px;
     font-weight: 600;
     outline: none;
@@ -172,7 +172,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background:url(../img/bg-hero.jpg);
+    background:url(../img/sunsetmain.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
